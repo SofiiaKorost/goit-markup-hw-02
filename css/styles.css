@@ -15,15 +15,16 @@ font-family: 'Roboto', sans-serif;
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 1.19;
 letter-spacing: 0.03em;
 color: #2196F3;
 text-decoration: none;
 }
 .logo-dark {
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 31px;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     color: #000000;
 }
@@ -188,6 +189,7 @@ color: #757575;
 }
 
 .logo-light {
+    font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
